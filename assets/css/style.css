@@ -365,9 +365,8 @@ h6 {
 .nav-menu a i,
 .nav-menu a:focus i {
   font-size: 29px;
-  padding-right: 8px;
-  padding: 5px;
-  font-weight: bold;
+  padding-right: 10px;
+   font-weight: bold;
   color: #040b14;
 }
 
