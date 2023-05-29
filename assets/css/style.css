@@ -505,9 +505,9 @@ p{
 @media only screen and (max-width:300px) {
   {background-attachment: fixed;}
   font-size:11px;
-  .imgb{
-    height:5px;
-  }
+  .p1{
+    
+  }font-size:11px;
 }
 @media (max-width: 768px) {
   #hero h1 {
