@@ -270,7 +270,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background:#1499dd;
+  background:grey;
   overflow-y: auto;
 }
 
