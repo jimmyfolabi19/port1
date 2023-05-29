@@ -270,7 +270,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background:;
+  background:#1499dd;
   overflow-y: auto;
 }
 
@@ -375,7 +375,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #149ddd;
+  color: white;
 }
 
 .nav-menu a:hover i,
