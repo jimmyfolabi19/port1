@@ -11,12 +11,6 @@ body {
   font-weight: bold;
 }
 
-@media only screen and (max-width: 320px) {
-  /* CSS styles for small screens */
- .afolabi{
-    font-size:7px;
-  
-}
 
 .{
   background-color: #040b14;
@@ -513,8 +507,8 @@ p{
 }
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 28px;
-    line-height: 36px;
+    font-size: 10px;
+    line-height: 20px;
   }
 
   #hero h2 {
