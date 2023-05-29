@@ -504,7 +504,7 @@ p{
 
 @media only screen and (max-width: 768px) {
   {background-attachment: fixed;}
-  font-size:15px;
+  font-size:11px;
   .imgb{
     height:5px;
   }
