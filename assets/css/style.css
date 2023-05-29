@@ -300,8 +300,8 @@ h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background:black ;
-  color: #fff;
+  background:white ;
+  color: black;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
