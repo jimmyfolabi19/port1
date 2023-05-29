@@ -10,13 +10,13 @@ body {
   font-size: 150px;
   font-weight: bold;
 }
-
+/*
 @media only screen and (max-width: 568px) {
   /* CSS styles for small screens */
-  .afolabi{
+ /* .afolabi{
     font-size:7px;
-  }
-}
+  
+}*/
 
 .{
   background-color: #040b14;
