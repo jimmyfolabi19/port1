@@ -508,7 +508,7 @@ p{
 @media (max-width: 768px) {
   #hero h1 {
     font-size: 18px;
-    line-height: 36px;
+    line-height: 10px;
   }
 
   #hero h2 {
@@ -518,12 +518,6 @@ p{
   }
   
   
-}
-@media only screen (min-width:320px) {
-  #hero h1{
-    font-size: 10px;
-  }
-}
 
 /*--------------------------------------------------------------
 # Sections General
