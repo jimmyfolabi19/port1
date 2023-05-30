@@ -516,6 +516,7 @@ p{
   }
 
 @media screen and  (min-width: 320px) {
+  {background-attachment: fixed;}
   .hello{
     font-size:10px;
   }
