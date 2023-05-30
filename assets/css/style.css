@@ -519,7 +519,7 @@ p{
   
   
 }
-@media (min-width:320px) {
+@media only screen (min-width:320px) {
   #h1{
     font-size: 10px;
   }
