@@ -519,7 +519,7 @@ p{
   @media(min-width:320px){
     #hero h1 {
 font-size: 5px;
-line-height: 1px;
+line-height: 5px;
     }
   }
   #hero p{
