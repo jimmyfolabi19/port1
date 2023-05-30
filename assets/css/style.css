@@ -518,7 +518,7 @@ p{
   }
   @media(min-width:320px){
     #hero h1 {
-font-size: 7rem;
+font-size: 3rem;
 line-height: 7rem;
     }
   }
