@@ -526,7 +526,10 @@ line-height: 10px;
     line-height: 10px;
     margin-bottom: 10px;
   }
-  
+  #hero p{
+    font-size: 10px;
+    line-height: 10px;
+  }
   }
 /*--------------------------------------------------------------
 # Sections General
