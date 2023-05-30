@@ -520,7 +520,7 @@ p{
   
 }
 @media only screen (min-width:320px) {
-  #h1{
+  #hero h1{
     font-size: 10px;
   }
 }
