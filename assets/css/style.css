@@ -519,10 +519,9 @@ p{
   @media(min-width:320px){
     #hero h1 {
 font-size:15px;
-line-height: 6rem;
+line-height: 11rem;
 font-family:sans-serif ;
-font-weight: 10px;
-    }
+font-weight: 10px; }
   }
   #hero p{
     font-size: 10px;
