@@ -502,25 +502,18 @@ p{
   }
 }
 
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:600px) {
   {background-attachment: fixed;}
  
  
 }
+
 @media (max-width: 768px) {
   #hero h1 {
-   
-    line-height: 35px;
-   
-    }
+    font-size: 28px;
+    line-height: 36px;
   }
 
-@media (min-width: 320px) {
- 
-  .hello{
-    font-size:10px;
-  }
-}
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
