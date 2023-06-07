@@ -502,7 +502,7 @@ p{
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1024px) {
   {background-attachment: fixed;}
 }
 @media (max-width: 768px) {
