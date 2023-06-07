@@ -12,16 +12,16 @@ body {
 }
 
 
-.{
+/* .{
   background-color: #040b14;
-}
+} */
 
 .card-body {
   margin: 0;
  
   box-sizing: border-box;
   padding: 10rem;
-  padding-left: ;
+  /* padding-left: ; */
   padding-right: rem;
   display: grid;
   background-color:grey;
@@ -36,20 +36,20 @@ body {
   100% {
     background-position: 100% 50%;
   }
-  // 100% {
-  //   background-position: 0% 50%;
-  // }
+  100% {
+  background-position: 0% 50%;
+  }
 }
 @keyframes gradientBG {
-  0% {15
+  0% {
     background-position: 0% 50%;
   }
   100% {
     background-position: 100% 50%;
   }
-  // 100% {
-  //   background-position: 0% 50%;
-  // }
+  100% {
+  background-position: 0% 50%;
+  }
 }
 	
 	.social-icons {
@@ -83,7 +83,7 @@ body {
 			}
 			&:nth-of-type(3) {
 				a {
-					background: $blue2-gradient;
+					background: blue2-gradient;
 				}
 			}
 			
@@ -435,7 +435,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background:  overflow: visible !important;
+  background: mvisible !important;
   background: -webkit-linear-gradient(45deg, #085078 10%, #85d8ce 90%);
   background: -moz-linear-gradient(45deg, #085078 10%, #85d8ce 90%);
   background: -ms-linear-gradient(45deg, #085078 10%, #85d8ce 90%);
@@ -503,7 +503,7 @@ p{
 }
 
 @media only screen and (max-width: 1024px) {
-  {background-attachment: fixed;}
+  /* {background-attachment: fixed;} */
 }
 @media (max-width: 1024px) {
   #hero h1 {
@@ -598,13 +598,13 @@ section {
   padding: 0;
 }
 .img-fluid{
-  border-radius: ;
-  padding: ; 
+  /* border-radius: ; */
+  /* padding: ;  */
 }
 .p-img{
   box-shadow : 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 2px 0 rgba(0, 0, 0, 0.19);
   background: #212431;
-  background-color:;
+  /* background-color:; */
   padding:1rem;
 }
 .about .content ul li {
@@ -1130,7 +1130,7 @@ section {
 .contact .info i {
   font-size: 20px;
   color: #149ddd;
-  1  float: left;
+  float: left;
   width: 44px;
   height: 44px;
   background: #dff3fc;
