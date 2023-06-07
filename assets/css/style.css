@@ -521,7 +521,9 @@ p{
 font-size:2em;
 line-height: 1em;
 font-family:sans-serif ;
-font-weight: 10px; }
+font-weight: 10px; 
+word-break: break-all;
+}
   }
   #hero p{
     font-size: 10px;
