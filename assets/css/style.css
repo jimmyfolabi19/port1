@@ -516,7 +516,7 @@ p{
     line-height: 18px;
     margin-bottom: 30px;
   }
-  @media(min-width:320px){
+  @media(min-width:320px) {
     #hero h1 {
 font-size:15px;
 line-height:2em;
@@ -538,7 +538,8 @@ text-align: center;
 
 
   }
-  }
+    }  
+}
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
