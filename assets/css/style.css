@@ -540,9 +540,9 @@ text-align: center;
   }
     }  
 }
-@media only screen and (orientation: landscape){
+@media only screen and(orientation:landscape){
   #hero img{
-    height:10em;
+    height:8em;
   }
 }
 /*--------------------------------------------------------------
