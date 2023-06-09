@@ -540,12 +540,6 @@ text-align: center;
   }
     }  
 }
-@media only screen and (orientation: landscape) {
-  #hero img{
-    height: 20em;
-  }
- 
-  }
 
 /*--------------------------------------------------------------
 # Sections General
