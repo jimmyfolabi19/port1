@@ -540,7 +540,8 @@ text-align: center;
   }
     }  
     .resume1{
-      padding:0.9em;
+      margin-left: 1em;
+      margin-right: 1em;
     }
 }
 
