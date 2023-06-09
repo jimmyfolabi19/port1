@@ -544,6 +544,9 @@ text-align: center;
   #hero img{
     height: 8em;
   }
+  #hero p{
+    margin-top: 0;
+  }
 }
 /*--------------------------------------------------------------
 # Sections General
