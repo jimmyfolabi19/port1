@@ -534,7 +534,7 @@ text-align: center;
     
   }
   #hero img{
-    height: 20em;
+    display: none;
 
 
   }
@@ -542,10 +542,9 @@ text-align: center;
 }
 @media only screen and (orientation: landscape) {
   #hero img{
-    height: 8em;
+    height: 20em;
   }
-  #hero p{
-    margin-top: 0;
+ 
   }
 }
 /*--------------------------------------------------------------
