@@ -542,7 +542,7 @@ text-align: center;
 }
 @media only screen and(orientation:landscape){
   #hero img{
-    height:8em;
+    height: 8em;
   }
 }
 /*--------------------------------------------------------------
