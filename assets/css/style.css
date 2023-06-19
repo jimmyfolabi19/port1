@@ -538,10 +538,12 @@ text-align: center;
 
 
   }
-    }  
-    .resume1{
-      text-align: center;
-    }
+  
+.section-title {
+  padding-bottom: 30px;
+margin-left: -4em;
+margin-right: -4em;
+}
 }
 
 /*--------------------------------------------------------------
