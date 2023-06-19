@@ -12,9 +12,6 @@ body {
 }
 
 
-/* .{
-  background-color: #040b14;
-} */
 
 .card-body {
   margin: 0;
@@ -539,7 +536,7 @@ text-align: center;
 
   }
   
-.section-title1 {
+.section-title {
   padding-bottom: 30px;
 margin-left: -3em;
 margin-right: -4em;
